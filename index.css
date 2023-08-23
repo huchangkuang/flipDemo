@@ -1,0 +1,15 @@
+.box {
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #eee;
+    padding: 24px;
+    width: fit-content;
+}
+.box .item {
+    padding: 10px 40px;
+    border-radius: 20px;
+    background: greenyellow;
+    width: fit-content;
+    margin-bottom: 20px;
+}
